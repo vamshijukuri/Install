@@ -1,0 +1,11 @@
+angular installation through cmd
+-----------------------------------
+for installation : npm install -g @angular/cli
+for making new app : ng new PROJECT NAME
+for open project : cd PROJECT NAME
+                   ng serve --open
+
+
+learn angular
+--------------------------------------
+https://youtu.be/k5E2AVpwsko
